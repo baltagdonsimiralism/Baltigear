@@ -12,7 +12,7 @@ const BlogPost = ({ title, content, author }) => {
 
 export default BlogPost;
 
-define
+
 
 
 
