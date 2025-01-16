@@ -1,0 +1,30 @@
+{
+  "project": "MyProject",
+  "version": "1.0",
+  "settings": {
+    "theme": "light",
+    "logging": true,
+    "debug_mode": false
+  },
+  "dependencies": [
+    {
+      "name": "ModuleA",
+      "version": "2.0"
+    },
+    {
+      "name": "ModuleB",
+      "version": "1.5"
+    }
+  ],
+  "execution": {
+    "start": "2025-01-01T10:00:00",
+    "end": "2025-01-01T18:00:00",
+    "max_retries": 3,
+    "retry_delay": 5
+  },
+  "metadata": {
+    "author": "John Doe",
+    "license": "MIT",
+    "created_on": "2025-01-01"
+  }
+}
