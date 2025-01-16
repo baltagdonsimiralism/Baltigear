@@ -64,4 +64,4 @@ if __name__ == "__main__":
     print(f"Signed Ethereum Transaction: {signed_eth_tx}")
 
     eth_balance = retrieve_ethereum_balance(eth_address)
-    print(f"Ethereum Balance: {eth_balance} ETH")indexgfile.js
+    print(f"Ethereum Balance: {eth_balance} ETH")indexgfile.jfis
